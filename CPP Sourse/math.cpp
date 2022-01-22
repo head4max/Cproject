@@ -1,14 +1,8 @@
 //
 // Created by head4max on 22.01.2022.
 //
-
-#ifndef LESSON2_MATH_H
-#define LESSON2_MATH_H
-
-#endif //LESSON2_MATH_H
-
-//using namespace std;
-double sqr(double a);
+#include "../Header Files/math.h"
+#include <cmath>
 
 double sqr(double a) {
     return a*a;
